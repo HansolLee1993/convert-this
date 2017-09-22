@@ -18,3 +18,10 @@ Release Date: Sep 21, 2017
 
 -   Added About, Gallery controller and welcome.php view
 
+Release Date: Sep 22, 2017
+
+## Activities
+
+-   Use controllers to manage views with templating
+
+-   Refactored public access paths 
