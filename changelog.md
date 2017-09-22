@@ -25,3 +25,13 @@ Release Date: Sep 22, 2017
 -   Use controllers to manage views with templating
 
 -   Refactored public access paths 
+
+-   Controller and views scaffolding
+
+-   Create comp4711 sql database 
+
+-   Edit Welcome and Gallery controllers 
+
+-   Added config/database.php in .gitignore
+
+Release Date: Sep 23, 2017
