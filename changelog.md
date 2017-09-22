@@ -14,5 +14,7 @@ Release Date: Sep 21, 2017
  
 -   Added index.php, .htaccess and assets from CodeIgniter folder
     
+-   Added application and system folder
 
+-   Added About, Gallery controller and welcome.php view
 
